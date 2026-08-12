@@ -1,0 +1,4711 @@
+{
+  "employees": [
+    {
+      "id": "emp-1",
+      "code": "G-N-1",
+      "name": "G-N-1",
+      "active": true
+    },
+    {
+      "id": "emp-2",
+      "code": "G-N-2",
+      "name": "G-N-2",
+      "active": true
+    },
+    {
+      "id": "emp-3",
+      "code": "G-N-3",
+      "name": "G-N-3",
+      "active": true
+    },
+    {
+      "id": "emp-4",
+      "code": "G-M-1",
+      "name": "G-M-1",
+      "active": true
+    },
+    {
+      "id": "emp-5",
+      "code": "G-M-2",
+      "name": "G-M-2",
+      "active": true
+    },
+    {
+      "id": "emp-6",
+      "code": "G-E-1",
+      "name": "G-E-1",
+      "active": true
+    },
+    {
+      "id": "emp-7",
+      "code": "G-E-2",
+      "name": "G-E-2",
+      "active": true
+    },
+    {
+      "id": "emp-8",
+      "code": "G-G-1",
+      "name": "G-G-1",
+      "active": true
+    },
+    {
+      "id": "emp-9",
+      "code": "G-G-2",
+      "name": "G-G-2",
+      "active": true
+    },
+    {
+      "id": "emp-10",
+      "code": "G-G-3",
+      "name": "G-G-3",
+      "active": true
+    },
+    {
+      "id": "emp-11",
+      "code": "G4",
+      "name": "G4",
+      "active": true
+    },
+    {
+      "id": "emp-12",
+      "code": "G5",
+      "name": "G5",
+      "active": true
+    },
+    {
+      "id": "emp-13",
+      "code": "EMP-13",
+      "name": "EMP-13",
+      "active": true
+    },
+    {
+      "id": "emp-14",
+      "code": "EMP-14",
+      "name": "EMP-14",
+      "active": true
+    },
+    {
+      "id": "emp-15",
+      "code": "EMP-15",
+      "name": "EMP-15",
+      "active": true
+    },
+    {
+      "id": "emp-16",
+      "code": "EMP-16",
+      "name": "EMP-16",
+      "active": true
+    },
+    {
+      "id": "emp-17",
+      "code": "EMP-17",
+      "name": "EMP-17",
+      "active": true
+    },
+    {
+      "id": "emp-18",
+      "code": "EMP-18",
+      "name": "EMP-18",
+      "active": true
+    },
+    {
+      "id": "emp-19",
+      "code": "EMP-19",
+      "name": "EMP-19",
+      "active": true
+    },
+    {
+      "id": "emp-20",
+      "code": "EMP-20",
+      "name": "EMP-20",
+      "active": true
+    },
+    {
+      "id": "emp-21",
+      "code": "EMP-21",
+      "name": "EMP-21",
+      "active": true
+    },
+    {
+      "id": "emp-22",
+      "code": "EMP-22",
+      "name": "EMP-22",
+      "active": true
+    },
+    {
+      "id": "emp-23",
+      "code": "EMP-23",
+      "name": "EMP-23",
+      "active": true
+    },
+    {
+      "id": "emp-24",
+      "code": "EMP-24",
+      "name": "EMP-24",
+      "active": true
+    },
+    {
+      "id": "emp-25",
+      "code": "EMP-25",
+      "name": "EMP-25",
+      "active": true
+    },
+    {
+      "id": "emp-26",
+      "code": "EMP-26",
+      "name": "EMP-26",
+      "active": true
+    },
+    {
+      "id": "emp-27",
+      "code": "EMP-27",
+      "name": "EMP-27",
+      "active": true
+    },
+    {
+      "id": "emp-28",
+      "code": "EMP-28",
+      "name": "EMP-28",
+      "active": true
+    },
+    {
+      "id": "emp-29",
+      "code": "EMP-29",
+      "name": "EMP-29",
+      "active": true
+    },
+    {
+      "id": "emp-30",
+      "code": "EMP-30",
+      "name": "EMP-30",
+      "active": true
+    }
+  ],
+  "rotation": {
+    "G-N-1": "G-G-2",
+    "G-N-2": "G-E-1",
+    "G-N-3": "G-N-1",
+    "G-M-1": "G-G-3",
+    "G-M-2": "G-M-1",
+    "G-E-1": "G-N-2",
+    "G-E-2": "G-M-2",
+    "G-G-1": "G-E-2",
+    "G-G-2": "G-G-1",
+    "G-G-3": "G-N-3"
+  },
+  "holidays": [
+    "2026-01-01",
+    "2026-01-15",
+    "2026-01-26",
+    "2026-03-21",
+    "2026-04-03",
+    "2026-04-14",
+    "2026-05-01",
+    "2026-08-15",
+    "2026-09-04",
+    "2026-09-14",
+    "2026-10-02",
+    "2026-10-19",
+    "2026-11-08",
+    "2026-12-25"
+  ],
+  "leaves": [],
+  "rosters": {
+    "2026-08-10": {
+      "startDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16"
+      ],
+      "assignments": {
+        "2026-08-10": [
+          {
+            "employeeId": "emp-6",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "N"
+          }
+        ],
+        "2026-08-11": [
+          {
+            "employeeId": "emp-2",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "N"
+          }
+        ],
+        "2026-08-12": [
+          {
+            "employeeId": "emp-10",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "N"
+          }
+        ],
+        "2026-08-13": [
+          {
+            "employeeId": "emp-6",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "N"
+          }
+        ],
+        "2026-08-14": [
+          {
+            "employeeId": "emp-2",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "N"
+          }
+        ],
+        "2026-08-15": [
+          {
+            "employeeId": "emp-10",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "N"
+          }
+        ],
+        "2026-08-16": [
+          {
+            "employeeId": "emp-3",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "N"
+          }
+        ]
+      },
+      "createdAt": "2026-08-11T10:26:19.507Z",
+      "validation": []
+    },
+    "2026-08": {
+      "month": "2026-08",
+      "dates": [
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31"
+      ],
+      "assignments": {
+        "2026-08-01": [
+          {
+            "employeeId": "emp-13",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-02": [
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-03": [
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-04": [
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          }
+        ],
+        "2026-08-05": [
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-06": [
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-07": [
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          }
+        ],
+        "2026-08-08": [
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-09": [
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          }
+        ],
+        "2026-08-10": [
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          }
+        ],
+        "2026-08-11": [
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          }
+        ],
+        "2026-08-12": [
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-13": [
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-14": [
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          }
+        ],
+        "2026-08-15": [
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-16": [
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-17": [
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-18": [
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          }
+        ],
+        "2026-08-19": [
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-20": [
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          }
+        ],
+        "2026-08-21": [
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          }
+        ],
+        "2026-08-22": [
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-23": [
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-24": [
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-25": [
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          }
+        ],
+        "2026-08-26": [
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          }
+        ],
+        "2026-08-27": [
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          }
+        ],
+        "2026-08-28": [
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          }
+        ],
+        "2026-08-29": [
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-30": [
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ],
+        "2026-08-31": [
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-30",
+            "shift": "G"
+          }
+        ]
+      },
+      "createdAt": "2026-08-11T11:37:19.243Z",
+      "validation": [],
+      "stats": {
+        "emp-1": {
+          "M": 1,
+          "G": 18,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-2": {
+          "M": 1,
+          "G": 19,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-3": {
+          "M": 1,
+          "G": 19,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-4": {
+          "M": 1,
+          "G": 17,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 3
+          }
+        },
+        "emp-5": {
+          "M": 1,
+          "G": 18,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2,
+            "2026-08-31": 1
+          }
+        },
+        "emp-6": {
+          "M": 1,
+          "G": 19,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-7": {
+          "M": 1,
+          "G": 18,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-8": {
+          "M": 1,
+          "G": 17,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 3,
+            "2026-08-24": 2
+          }
+        },
+        "emp-9": {
+          "M": 1,
+          "G": 17,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 3,
+            "2026-08-24": 2
+          }
+        },
+        "emp-10": {
+          "M": 1,
+          "G": 18,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 3
+          }
+        },
+        "emp-11": {
+          "M": 1,
+          "G": 19,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-12": {
+          "M": 0,
+          "G": 19,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2,
+            "2026-08-31": 1
+          }
+        },
+        "emp-13": {
+          "M": 1,
+          "G": 12,
+          "E": 2,
+          "N": 3,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-07-27": 1,
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-14": {
+          "M": 1,
+          "G": 12,
+          "E": 2,
+          "N": 3,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-07-27": 1,
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-15": {
+          "M": 2,
+          "G": 13,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-16": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-17": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-18": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-19": {
+          "M": 2,
+          "G": 13,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-20": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-21": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-22": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-23": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-24": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-25": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-26": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-27": {
+          "M": 1,
+          "G": 14,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-28": {
+          "M": 1,
+          "G": 16,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-29": {
+          "M": 1,
+          "G": 17,
+          "E": 1,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        },
+        "emp-30": {
+          "M": 1,
+          "G": 18,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 2,
+            "2026-08-10": 2,
+            "2026-08-17": 2,
+            "2026-08-24": 2
+          }
+        }
+      }
+    }
+  },
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "username": "manager",
+      "password": "manager123",
+      "role": "manager"
+    },
+    {
+      "username": "employee",
+      "password": "employee123",
+      "role": "employee",
+      "employeeId": "emp-1"
+    }
+  ]
+}

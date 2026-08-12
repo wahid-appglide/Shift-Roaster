@@ -1,75 +1,32 @@
-# React + TypeScript + Vite
+# Appglide Monthly Shift Roster
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dependency-free full-stack web application for automatically generating a monthly rota for 30 employees.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 30 employee records by default; replace the placeholder names/codes in `data.json`.
+- Weekdays: 1 Morning, 2 Evening, 2 Night, and all remaining available staff on General.
+- Weekends and listed company holidays: 1 Morning, 1 Evening, 2 Night, with all other available staff on General.
+- Two weekly non-working days for every employee in complete weeks.
+- Approved leave is excluded from allocation and counts as a non-working day.
+- Fairness-first allocation of Morning, Evening, Night, weekend, and holiday duties.
+- Maximum three continuous night shifts; one recovery day after a 1–2-night block, two after a three-night block.
+- Employee leave requests; manager/admin approval; manager/admin roster generation and validated shift changes.
 
-## React Compiler
+## Run
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
+```powershell
+& 'C:\Users\Abinaya\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' server.js
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Open `http://localhost:3000`.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Roles
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+This local starter uses a role selector in the UI so the complete workflow can be tested without infrastructure. The server also enforces the role it receives:
 
-```
+- `employee`: submits leave requests and views the rota.
+- `manager`: generates/edits rosters and approves/rejects leave.
+- `admin`: additionally manages employees through the API.
+
+For production, replace the demo role selector with authenticated sessions (SSO or password login) and move `data.json` to a managed database.
