@@ -210,6 +210,7 @@
     "2026-12-25"
   ],
   "leaves": [],
+  "shiftRequests": [],
   "rosters": {
     "2026-08-10": {
       "startDate": "2026-08-10",
@@ -495,108 +496,108 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-1",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-2",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-4",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-11",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-12",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-17",
             "shift": "G"
           },
           {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-18",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-19",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-20",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-21",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-22",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-23",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-24",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-25",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-26",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-27",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-28",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-02": [
@@ -625,100 +626,100 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-1",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-2",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-4",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-11",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-12",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-15",
             "shift": "G"
           },
           {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-16",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-21",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-22",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-23",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-24",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-25",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-26",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-27",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-28",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-03": [
@@ -1393,64 +1394,64 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-4",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-17",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-18",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-19",
             "shift": "G"
           },
           {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-20",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-27",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-28",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-09": [
@@ -1463,19 +1464,7 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-17",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-18",
-            "shift": "O"
-          },
-          {
             "employeeId": "emp-19",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-20",
             "shift": "O"
           },
           {
@@ -1487,23 +1476,35 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-27",
+            "employeeId": "emp-1",
             "shift": "O"
           },
           {
-            "employeeId": "emp-28",
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
             "shift": "O"
           },
           {
             "employeeId": "emp-29",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-30",
             "shift": "N"
           },
           {
-            "employeeId": "emp-6",
+            "employeeId": "emp-30",
             "shift": "N"
           },
           {
@@ -1515,69 +1516,69 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-1",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-2",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-4",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-11",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-12",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-13",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-14",
             "shift": "G"
           },
           {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-15",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-16",
-            "shift": "G"
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-27",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-28",
+            "shift": "O"
           }
         ],
         "2026-08-10": [
           {
-            "employeeId": "emp-6",
+            "employeeId": "emp-29",
             "shift": "O"
           },
           {
@@ -1621,7 +1622,7 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-29",
+            "employeeId": "emp-6",
             "shift": "N"
           },
           {
@@ -1699,11 +1700,11 @@
         ],
         "2026-08-11": [
           {
-            "employeeId": "emp-7",
+            "employeeId": "emp-6",
             "shift": "O"
           },
           {
-            "employeeId": "emp-29",
+            "employeeId": "emp-7",
             "shift": "O"
           },
           {
@@ -1755,11 +1756,11 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-30",
+            "employeeId": "emp-29",
             "shift": "E"
           },
           {
-            "employeeId": "emp-6",
+            "employeeId": "emp-30",
             "shift": "E"
           },
           {
@@ -1877,16 +1878,12 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-29",
+            "employeeId": "emp-6",
             "shift": "E"
           },
           {
             "employeeId": "emp-7",
             "shift": "E"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
           },
           {
             "employeeId": "emp-16",
@@ -1934,6 +1931,10 @@
           },
           {
             "employeeId": "emp-28",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-29",
             "shift": "G"
           },
           {
@@ -2239,7 +2240,7 @@
             "shift": "N"
           },
           {
-            "employeeId": "emp-29",
+            "employeeId": "emp-6",
             "shift": "M"
           },
           {
@@ -2247,64 +2248,64 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-1",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-19",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-20",
             "shift": "G"
           },
           {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-21",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-22",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-23",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-24",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-25",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-26",
-            "shift": "G"
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-16": [
@@ -2317,11 +2318,83 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-19",
+            "employeeId": "emp-20",
             "shift": "O"
           },
           {
-            "employeeId": "emp-20",
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
             "shift": "O"
           },
           {
@@ -2353,89 +2426,17 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-11",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-12",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "M"
-          },
-          {
-            "employeeId": "emp-1",
-            "shift": "E"
-          },
-          {
-            "employeeId": "emp-2",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-4",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-13",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-14",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-15",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-16",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-17",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-18",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-17": [
           {
-            "employeeId": "emp-11",
+            "employeeId": "emp-7",
             "shift": "O"
           },
           {
-            "employeeId": "emp-12",
+            "employeeId": "emp-8",
             "shift": "O"
           },
           {
@@ -2475,11 +2476,11 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-22",
+            "employeeId": "emp-11",
             "shift": "N"
           },
           {
-            "employeeId": "emp-23",
+            "employeeId": "emp-12",
             "shift": "N"
           },
           {
@@ -2511,19 +2512,19 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-9",
             "shift": "G"
           },
           {
             "employeeId": "emp-10",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-23",
             "shift": "G"
           },
           {
@@ -2553,6 +2554,14 @@
         ],
         "2026-08-18": [
           {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-22",
             "shift": "O"
           },
@@ -2589,14 +2598,6 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-6",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "O"
-          },
-          {
             "employeeId": "emp-13",
             "shift": "N"
           },
@@ -2605,15 +2606,15 @@
             "shift": "N"
           },
           {
-            "employeeId": "emp-8",
+            "employeeId": "emp-7",
             "shift": "M"
           },
           {
-            "employeeId": "emp-11",
+            "employeeId": "emp-15",
             "shift": "E"
           },
           {
-            "employeeId": "emp-12",
+            "employeeId": "emp-16",
             "shift": "E"
           },
           {
@@ -2637,19 +2638,19 @@
             "shift": "G"
           },
           {
+            "employeeId": "emp-6",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
             "employeeId": "emp-9",
             "shift": "G"
           },
           {
             "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-15",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-16",
             "shift": "G"
           },
           {
@@ -2683,7 +2684,7 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-8",
+            "employeeId": "emp-6",
             "shift": "O"
           },
           {
@@ -2731,27 +2732,27 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-18",
+            "employeeId": "emp-11",
             "shift": "E"
           },
           {
-            "employeeId": "emp-19",
+            "employeeId": "emp-12",
             "shift": "E"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
           },
           {
             "employeeId": "emp-7",
             "shift": "G"
           },
           {
-            "employeeId": "emp-11",
+            "employeeId": "emp-8",
             "shift": "G"
           },
           {
-            "employeeId": "emp-12",
+            "employeeId": "emp-18",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-19",
             "shift": "G"
           },
           {
@@ -2975,11 +2976,11 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-16",
+            "employeeId": "emp-17",
             "shift": "E"
           },
           {
-            "employeeId": "emp-17",
+            "employeeId": "emp-20",
             "shift": "E"
           },
           {
@@ -3011,7 +3012,7 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-20",
+            "employeeId": "emp-16",
             "shift": "G"
           },
           {
@@ -3085,97 +3086,89 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-8",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "N"
-          },
-          {
             "employeeId": "emp-10",
-            "shift": "M"
+            "shift": "N"
           },
           {
             "employeeId": "emp-4",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-29",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-21",
             "shift": "E"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
           },
           {
             "employeeId": "emp-15",
             "shift": "G"
           },
           {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-17",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-20",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-21",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-22",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-23",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-24",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-25",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-26",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-27",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-28",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-23": [
           {
-            "employeeId": "emp-8",
+            "employeeId": "emp-4",
             "shift": "O"
           },
           {
-            "employeeId": "emp-9",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-17",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-20",
+            "employeeId": "emp-10",
             "shift": "O"
           },
           {
@@ -3183,7 +3176,83 @@
             "shift": "O"
           },
           {
+            "employeeId": "emp-29",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "N"
+          },
+          {
             "employeeId": "emp-22",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-18",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
             "shift": "O"
           },
           {
@@ -3207,89 +3276,21 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-2",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "M"
-          },
-          {
-            "employeeId": "emp-15",
-            "shift": "E"
-          },
-          {
-            "employeeId": "emp-1",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-4",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-10",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-11",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-12",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-13",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-14",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-16",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-18",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-19",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-28",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-24": [
           {
-            "employeeId": "emp-2",
+            "employeeId": "emp-20",
             "shift": "O"
           },
           {
-            "employeeId": "emp-3",
+            "employeeId": "emp-22",
             "shift": "O"
           },
           {
@@ -3321,11 +3322,11 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-20",
+            "employeeId": "emp-21",
             "shift": "O"
           },
           {
-            "employeeId": "emp-21",
+            "employeeId": "emp-23",
             "shift": "O"
           },
           {
@@ -3337,19 +3338,27 @@
             "shift": "N"
           },
           {
-            "employeeId": "emp-9",
+            "employeeId": "emp-10",
             "shift": "M"
           },
           {
-            "employeeId": "emp-22",
+            "employeeId": "emp-26",
             "shift": "E"
           },
           {
-            "employeeId": "emp-23",
+            "employeeId": "emp-27",
             "shift": "E"
           },
           {
             "employeeId": "emp-1",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-3",
             "shift": "G"
           },
           {
@@ -3373,7 +3382,7 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-10",
+            "employeeId": "emp-9",
             "shift": "G"
           },
           {
@@ -3382,14 +3391,6 @@
           },
           {
             "employeeId": "emp-12",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-26",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-27",
             "shift": "G"
           },
           {
@@ -3415,14 +3416,6 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-22",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-23",
-            "shift": "O"
-          },
-          {
             "employeeId": "emp-26",
             "shift": "O"
           },
@@ -3451,11 +3444,19 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-20",
-            "shift": "N"
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
           },
           {
             "employeeId": "emp-21",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-23",
             "shift": "N"
           },
           {
@@ -3463,11 +3464,11 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-8",
+            "employeeId": "emp-19",
             "shift": "E"
           },
           {
-            "employeeId": "emp-9",
+            "employeeId": "emp-22",
             "shift": "E"
           },
           {
@@ -3523,25 +3524,17 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-19",
+            "employeeId": "emp-20",
             "shift": "G"
           }
         ],
         "2026-08-26": [
           {
-            "employeeId": "emp-20",
-            "shift": "O"
-          },
-          {
             "employeeId": "emp-21",
             "shift": "O"
           },
           {
-            "employeeId": "emp-8",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-9",
+            "employeeId": "emp-23",
             "shift": "O"
           },
           {
@@ -3558,6 +3551,14 @@
           },
           {
             "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
             "shift": "O"
           },
           {
@@ -3581,7 +3582,7 @@
             "shift": "N"
           },
           {
-            "employeeId": "emp-2",
+            "employeeId": "emp-14",
             "shift": "M"
           },
           {
@@ -3593,10 +3594,6 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-6",
             "shift": "G"
           },
@@ -3605,7 +3602,11 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-14",
+            "employeeId": "emp-8",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-9",
             "shift": "G"
           },
           {
@@ -3629,11 +3630,11 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-22",
+            "employeeId": "emp-20",
             "shift": "G"
           },
           {
-            "employeeId": "emp-23",
+            "employeeId": "emp-22",
             "shift": "G"
           },
           {
@@ -3683,11 +3684,11 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-22",
+            "employeeId": "emp-20",
             "shift": "O"
           },
           {
-            "employeeId": "emp-23",
+            "employeeId": "emp-22",
             "shift": "O"
           },
           {
@@ -3699,7 +3700,7 @@
             "shift": "N"
           },
           {
-            "employeeId": "emp-7",
+            "employeeId": "emp-9",
             "shift": "N"
           },
           {
@@ -3707,11 +3708,11 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-20",
+            "employeeId": "emp-23",
             "shift": "E"
           },
           {
-            "employeeId": "emp-21",
+            "employeeId": "emp-28",
             "shift": "E"
           },
           {
@@ -3731,11 +3732,11 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-8",
+            "employeeId": "emp-7",
             "shift": "G"
           },
           {
-            "employeeId": "emp-9",
+            "employeeId": "emp-8",
             "shift": "G"
           },
           {
@@ -3755,15 +3756,15 @@
             "shift": "G"
           },
           {
+            "employeeId": "emp-21",
+            "shift": "G"
+          },
+          {
             "employeeId": "emp-25",
             "shift": "G"
           },
           {
             "employeeId": "emp-27",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-28",
             "shift": "G"
           },
           {
@@ -3777,7 +3778,7 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-7",
+            "employeeId": "emp-9",
             "shift": "O"
           },
           {
@@ -3797,11 +3798,11 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-8",
+            "employeeId": "emp-7",
             "shift": "O"
           },
           {
-            "employeeId": "emp-9",
+            "employeeId": "emp-8",
             "shift": "O"
           },
           {
@@ -3821,7 +3822,7 @@
             "shift": "N"
           },
           {
-            "employeeId": "emp-11",
+            "employeeId": "emp-2",
             "shift": "N"
           },
           {
@@ -3829,16 +3830,12 @@
             "shift": "M"
           },
           {
-            "employeeId": "emp-26",
-            "shift": "E"
-          },
-          {
             "employeeId": "emp-30",
             "shift": "E"
           },
           {
-            "employeeId": "emp-2",
-            "shift": "G"
+            "employeeId": "emp-11",
+            "shift": "E"
           },
           {
             "employeeId": "emp-12",
@@ -3890,6 +3887,10 @@
           },
           {
             "employeeId": "emp-24",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-26",
             "shift": "G"
           }
         ],
@@ -3899,15 +3900,15 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-11",
-            "shift": "O"
-          },
-          {
             "employeeId": "emp-2",
             "shift": "O"
           },
           {
             "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
             "shift": "O"
           },
           {
@@ -3939,15 +3940,15 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-10",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-4",
+            "employeeId": "emp-5",
             "shift": "N"
           },
           {
             "employeeId": "emp-19",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-23",
             "shift": "M"
           },
           {
@@ -3955,69 +3956,141 @@
             "shift": "E"
           },
           {
-            "employeeId": "emp-5",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-20",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-21",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-22",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-23",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-24",
             "shift": "G"
           },
           {
+            "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-10",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-20",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-21",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-22",
+            "shift": "O"
+          },
+          {
             "employeeId": "emp-25",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-26",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-27",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-28",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-30": [
           {
+            "employeeId": "emp-5",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-19",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-23",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-24",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-7",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-1",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-2",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-12",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-13",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-14",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-15",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-16",
+            "shift": "M"
+          },
+          {
+            "employeeId": "emp-9",
+            "shift": "E"
+          },
+          {
+            "employeeId": "emp-25",
+            "shift": "G"
+          },
+          {
             "employeeId": "emp-4",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-6",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-8",
             "shift": "O"
           },
           {
@@ -4025,7 +4098,11 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-19",
+            "employeeId": "emp-17",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-18",
             "shift": "O"
           },
           {
@@ -4041,18 +4118,6 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-23",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-24",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-25",
-            "shift": "O"
-          },
-          {
             "employeeId": "emp-26",
             "shift": "O"
           },
@@ -4061,109 +4126,45 @@
             "shift": "O"
           },
           {
-            "employeeId": "emp-12",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-5",
-            "shift": "N"
-          },
-          {
-            "employeeId": "emp-11",
-            "shift": "M"
-          },
-          {
-            "employeeId": "emp-1",
-            "shift": "E"
-          },
-          {
-            "employeeId": "emp-2",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-6",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-7",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-8",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-9",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-13",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-14",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-15",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-16",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-17",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-18",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-28",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-29",
-            "shift": "G"
+            "shift": "O"
           },
           {
             "employeeId": "emp-30",
-            "shift": "G"
+            "shift": "O"
           }
         ],
         "2026-08-31": [
           {
-            "employeeId": "emp-5",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-12",
-            "shift": "O"
-          },
-          {
-            "employeeId": "emp-13",
-            "shift": "N"
-          },
-          {
             "employeeId": "emp-14",
-            "shift": "N"
+            "shift": "O"
           },
           {
             "employeeId": "emp-15",
+            "shift": "O"
+          },
+          {
+            "employeeId": "emp-3",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-11",
+            "shift": "N"
+          },
+          {
+            "employeeId": "emp-2",
             "shift": "M"
           },
           {
-            "employeeId": "emp-27",
+            "employeeId": "emp-29",
             "shift": "E"
           },
           {
-            "employeeId": "emp-28",
+            "employeeId": "emp-6",
             "shift": "E"
           },
           {
@@ -4171,19 +4172,11 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-2",
-            "shift": "G"
-          },
-          {
-            "employeeId": "emp-3",
-            "shift": "G"
-          },
-          {
             "employeeId": "emp-4",
             "shift": "G"
           },
           {
-            "employeeId": "emp-6",
+            "employeeId": "emp-5",
             "shift": "G"
           },
           {
@@ -4203,7 +4196,11 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-11",
+            "employeeId": "emp-12",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-13",
             "shift": "G"
           },
           {
@@ -4251,7 +4248,11 @@
             "shift": "G"
           },
           {
-            "employeeId": "emp-29",
+            "employeeId": "emp-27",
+            "shift": "G"
+          },
+          {
+            "employeeId": "emp-28",
             "shift": "G"
           },
           {
@@ -4260,431 +4261,457 @@
           }
         ]
       },
-      "createdAt": "2026-08-11T11:37:19.243Z",
+      "createdAt": "2026-08-12T12:06:13.976Z",
       "validation": [],
       "stats": {
         "emp-1": {
           "M": 1,
-          "G": 18,
-          "E": 2,
+          "G": 13,
+          "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
           }
         },
         "emp-2": {
           "M": 1,
-          "G": 19,
+          "G": 13,
           "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
           }
         },
         "emp-3": {
           "M": 1,
-          "G": 19,
+          "G": 13,
           "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
           }
         },
         "emp-4": {
           "M": 1,
-          "G": 17,
-          "E": 2,
+          "G": 11,
+          "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 3
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 4
           }
         },
         "emp-5": {
           "M": 1,
-          "G": 18,
+          "G": 12,
           "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2,
-            "2026-08-31": 1
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
           }
         },
         "emp-6": {
           "M": 1,
-          "G": 19,
-          "E": 1,
+          "G": 9,
+          "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
+            "2026-08-17": 4,
+            "2026-08-24": 4
           }
         },
         "emp-7": {
           "M": 1,
-          "G": 18,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
+            "2026-08-17": 4,
+            "2026-08-24": 3
           }
         },
         "emp-8": {
           "M": 1,
-          "G": 17,
-          "E": 2,
+          "G": 11,
+          "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
             "2026-08-17": 3,
-            "2026-08-24": 2
+            "2026-08-24": 4
           }
         },
         "emp-9": {
           "M": 1,
-          "G": 17,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 3,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
+            "2026-08-17": 4,
+            "2026-08-24": 3
           }
         },
         "emp-10": {
           "M": 1,
-          "G": 18,
+          "G": 10,
           "E": 1,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 3
+            "2026-07-27": 2,
+            "2026-08-03": 4,
+            "2026-08-10": 4,
+            "2026-08-17": 3,
+            "2026-08-24": 4
           }
         },
         "emp-11": {
-          "M": 1,
-          "G": 19,
-          "E": 1,
-          "N": 2,
-          "weekend": 0,
-          "holiday": 0,
-          "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
-          }
-        },
-        "emp-12": {
           "M": 0,
-          "G": 19,
-          "E": 1,
-          "N": 2,
-          "weekend": 0,
-          "holiday": 0,
-          "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2,
-            "2026-08-31": 1
-          }
-        },
-        "emp-13": {
-          "M": 1,
-          "G": 12,
-          "E": 2,
-          "N": 3,
-          "weekend": 0,
-          "holiday": 0,
-          "off": {
-            "2026-07-27": 1,
-            "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
-            "2026-08-24": 3
-          }
-        },
-        "emp-14": {
-          "M": 1,
-          "G": 12,
-          "E": 2,
-          "N": 3,
-          "weekend": 0,
-          "holiday": 0,
-          "off": {
-            "2026-07-27": 1,
-            "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
-            "2026-08-24": 3
-          }
-        },
-        "emp-15": {
-          "M": 2,
           "G": 13,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
             "2026-08-10": 3,
             "2026-08-17": 3,
             "2026-08-24": 3
           }
         },
-        "emp-16": {
+        "emp-12": {
+          "M": 0,
+          "G": 15,
+          "E": 1,
+          "N": 1,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-07-27": 2,
+            "2026-08-03": 3,
+            "2026-08-10": 3,
+            "2026-08-17": 3,
+            "2026-08-24": 3
+          }
+        },
+        "emp-13": {
           "M": 1,
-          "G": 14,
+          "G": 9,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 1,
+            "2026-08-03": 4,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
+            "2026-08-24": 4
+          }
+        },
+        "emp-14": {
+          "M": 2,
+          "G": 9,
+          "E": 2,
+          "N": 3,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-07-27": 1,
             "2026-08-03": 3,
-            "2026-08-10": 3,
+            "2026-08-10": 4,
             "2026-08-17": 3,
+            "2026-08-24": 3,
+            "2026-08-31": 1
+          }
+        },
+        "emp-15": {
+          "M": 1,
+          "G": 9,
+          "E": 2,
+          "N": 3,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-08-03": 4,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
+            "2026-08-24": 3,
+            "2026-08-31": 1
+          }
+        },
+        "emp-16": {
+          "M": 2,
+          "G": 10,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-07-27": 1,
+            "2026-08-03": 4,
+            "2026-08-10": 3,
+            "2026-08-17": 4,
             "2026-08-24": 3
           }
         },
         "emp-17": {
           "M": 1,
-          "G": 14,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-03": 4,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
+            "2026-08-24": 4
           }
         },
         "emp-18": {
           "M": 1,
-          "G": 14,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 3,
-            "2026-08-10": 3,
+            "2026-07-27": 1,
+            "2026-08-03": 4,
+            "2026-08-10": 4,
             "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-24": 4
           }
         },
         "emp-19": {
-          "M": 2,
-          "G": 13,
+          "M": 1,
+          "G": 10,
           "E": 2,
-          "N": 2,
+          "N": 3,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 1,
             "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
             "2026-08-24": 3
           }
         },
         "emp-20": {
           "M": 1,
-          "G": 14,
+          "G": 11,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 3,
+            "2026-07-27": 1,
+            "2026-08-03": 4,
             "2026-08-10": 3,
             "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-24": 4
           }
         },
         "emp-21": {
           "M": 1,
-          "G": 14,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
-            "2026-08-10": 3,
+            "2026-08-10": 4,
             "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-24": 4
           }
         },
         "emp-22": {
           "M": 1,
-          "G": 14,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
-            "2026-08-10": 3,
+            "2026-08-10": 4,
             "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-24": 4
           }
         },
         "emp-23": {
-          "M": 1,
-          "G": 14,
+          "M": 2,
+          "G": 9,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
             "2026-08-24": 3
           }
         },
         "emp-24": {
           "M": 1,
-          "G": 14,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
             "2026-08-24": 3
           }
         },
         "emp-25": {
           "M": 1,
-          "G": 14,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
             "2026-08-24": 3
           }
         },
         "emp-26": {
           "M": 1,
-          "G": 14,
+          "G": 9,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
+            "2026-07-27": 2,
             "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-10": 4,
+            "2026-08-17": 4,
+            "2026-08-24": 4
           }
         },
         "emp-27": {
           "M": 1,
-          "G": 14,
+          "G": 9,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 3,
+            "2026-07-27": 2,
+            "2026-08-03": 4,
             "2026-08-10": 3,
-            "2026-08-17": 3,
-            "2026-08-24": 3
+            "2026-08-17": 4,
+            "2026-08-24": 4
           }
         },
         "emp-28": {
           "M": 1,
-          "G": 16,
+          "G": 9,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 3,
+            "2026-07-27": 2,
+            "2026-08-03": 4,
             "2026-08-10": 3,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-08-17": 4,
+            "2026-08-24": 4
           }
         },
         "emp-29": {
           "M": 1,
-          "G": 17,
-          "E": 1,
-          "N": 2,
-          "weekend": 0,
-          "holiday": 0,
-          "off": {
-            "2026-08-03": 3,
-            "2026-08-10": 3,
-            "2026-08-17": 2,
-            "2026-08-24": 2
-          }
-        },
-        "emp-30": {
-          "M": 1,
-          "G": 18,
+          "G": 10,
           "E": 2,
           "N": 2,
           "weekend": 0,
           "holiday": 0,
           "off": {
-            "2026-08-03": 2,
-            "2026-08-10": 2,
-            "2026-08-17": 2,
-            "2026-08-24": 2
+            "2026-07-27": 2,
+            "2026-08-03": 3,
+            "2026-08-10": 4,
+            "2026-08-17": 3,
+            "2026-08-24": 4
+          }
+        },
+        "emp-30": {
+          "M": 1,
+          "G": 9,
+          "E": 2,
+          "N": 2,
+          "weekend": 0,
+          "holiday": 0,
+          "off": {
+            "2026-07-27": 2,
+            "2026-08-03": 3,
+            "2026-08-10": 4,
+            "2026-08-17": 4,
+            "2026-08-24": 4
           }
         }
       }
